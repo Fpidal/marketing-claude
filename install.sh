@@ -13,7 +13,7 @@ NC='\033[0m'
 
 CLAUDE_DIR="$HOME/.claude"
 SKILLS_DIR="$CLAUDE_DIR/skills"
-REPO_URL="https://github.com/franciscopidal/marketing-claude.git"
+REPO_URL="https://github.com/Fpidal/marketing-claude.git"
 
 echo ""
 echo -e "${BLUE}========================================${NC}"

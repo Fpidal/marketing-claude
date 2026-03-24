@@ -29,13 +29,13 @@ Pensada para el **mercado argentino**: voseo, pesos, WhatsApp Business, Google M
 ### Opcion 1: Instalacion rapida (recomendada)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/franciscopidal/marketing-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Fpidal/marketing-claude/main/install.sh | bash
 ```
 
 ### Opcion 2: Instalacion manual
 
 ```bash
-git clone https://github.com/franciscopidal/marketing-claude.git
+git clone https://github.com/Fpidal/marketing-claude.git
 cd marketing-claude
 chmod +x install.sh
 ./install.sh
@@ -44,7 +44,7 @@ chmod +x install.sh
 ### Desinstalar
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/franciscopidal/marketing-claude/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Fpidal/marketing-claude/main/uninstall.sh | bash
 ```
 
 ---
