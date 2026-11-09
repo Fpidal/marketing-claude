@@ -31,6 +31,8 @@ SKILLS=(
     "marketing-brand"
     "marketing-proposal"
     "marketing-report"
+    "gastronomic-analista"
+    "consultor-google-tero"
 )
 
 REMOVED=0

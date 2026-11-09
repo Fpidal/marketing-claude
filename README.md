@@ -107,7 +107,9 @@ marketing-claude/
 │   ├── marketing-emails/     # Email marketing
 │   ├── marketing-ads/        # Publicidad
 │   ├── marketing-proposal/   # Propuestas comerciales
-│   └── marketing-report/     # Reportes ejecutivos
+│   ├── marketing-report/     # Reportes ejecutivos
+│   ├── gastronomic-analista/ # Consultor gastronómico
+│   └── consultor-google-tero/# Google, SEO local y Ads para Tero
 ├── templates/
 │   ├── propuesta-comercial.md
 │   ├── calendario-contenido.md

@@ -62,6 +62,8 @@ SKILLS=(
     "marketing-brand"
     "marketing-proposal"
     "marketing-report"
+    "gastronomic-analista"
+    "consultor-google-tero"
 )
 
 INSTALLED=0
